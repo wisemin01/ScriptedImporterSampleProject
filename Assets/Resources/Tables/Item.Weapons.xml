@@ -1,0 +1,22 @@
+<Items>
+	<Item ID="101">
+		<Type>Weapon</Type>
+		<Name>철 검</Name>
+		<Description>철로 만든 멋진 검입니다.</Description>
+		<Icon>Assets/Icons/sword.png</Icon>
+	</Item>
+
+	<Item ID="102">
+		<Type>Weapon</Type>
+		<Name>활</Name>
+		<Description>나무로 만든 멋진 활입니다.</Description>
+		<Icon>Assets/Icons/bow.png</Icon>
+	</Item>
+
+	<Item ID="103">
+		<Type>Weapon</Type>
+		<Name>석궁</Name>
+		<Description>나무로 만든 멋진 석궁입니다.</Description>
+		<Icon>Assets/Icons/crossbow.png</Icon>
+	</Item>
+</Items>

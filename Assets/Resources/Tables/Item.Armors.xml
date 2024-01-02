@@ -1,0 +1,22 @@
+<Items>
+	<Item ID="1">
+		<Type>Armor</Type>
+		<Name>가죽 갑옷</Name>
+		<Description>가죽으로 만든 갑옷입니다. 살짝 위험해 보이네요.</Description>
+		<Icon>Assets/Icons/leather_armor.png</Icon>
+	</Item>
+	
+	<Item ID="2">
+		<Type>Armor</Type>
+		<Name>철 갑옷</Name>
+		<Description>철로 만든 단단한 갑옷입니다. 이 정도면 꽤 준수하네요!</Description>
+		<Icon>Assets/Icons/iron_armor.png</Icon>
+	</Item>
+
+	<Item ID="3">
+		<Type>Armor</Type>
+		<Name>다이아몬드 갑옷</Name>
+		<Description>다이아몬드로 만든 단단한 갑옷입니다. 더 바랄게 없겠어요!</Description>
+		<Icon>Assets/Icons/diamond_armor.png</Icon>
+	</Item>
+</Items>

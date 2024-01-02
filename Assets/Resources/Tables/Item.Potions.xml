@@ -1,0 +1,22 @@
+<Items>
+	<Item ID="201">
+		<Type>Potion</Type>
+		<Name>하급 물약</Name>
+		<Description>마시면 HP를 250만큼 회복합니다.</Description>
+		<Icon>Assets/Icons/potion_1.png</Icon>
+	</Item>
+
+	<Item ID="202">
+		<Type>Potion</Type>
+		<Name>중급 물약</Name>
+		<Description>마시면 HP를 500만큼 회복합니다.</Description>
+		<Icon>Assets/Icons/potion_2.png</Icon>
+	</Item>
+
+	<Item ID="203">
+		<Type>Potion</Type>
+		<Name>상급 물약</Name>
+		<Description>마시면 HP를 1000만큼 회복합니다.</Description>
+		<Icon>Assets/Icons/potion_3.png</Icon>
+	</Item>
+</Items>
